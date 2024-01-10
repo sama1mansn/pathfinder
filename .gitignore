@@ -16,6 +16,10 @@ pathfinder-var.env
 # direnv
 .envrc
 .env
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
 
 # pyenv
 .python-version
